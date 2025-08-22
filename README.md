@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nikhil Nagarkoti/Nikhil-Git69/XperCrafts
+# 👋 Hi, I'm Nikhil Nagarkoti/XperCrafts
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Flutter**
