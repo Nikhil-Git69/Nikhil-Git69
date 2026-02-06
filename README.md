@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Nikhil Nagarkoti/XperCrafts
+# 👋 Hi, I'm Nikhil Nagarkoti (XCraft)
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Flutter**
-- 💼 Flutter Development Intern @ Cosmotech International
-- 🛠️ Building **Nescart**
-- 🎯 Goals: Becoming a full-stack mobile developer
+- 📱 Flutter Developer
+- 🧠 Exploring full-stack development (Mobile + Backend)
+- 🛠️ Building personal and experimental projects
+- 🎯 Goal: Becoming a strong full-stack mobile engineer
+- 🔍 Currently focused on clean architecture, APIs, and AI and Automation Integration.
 
 ---
 
@@ -18,7 +19,9 @@
 
 ### Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -29,9 +32,16 @@
 
 ---
 
+## 🌱 What I'm Working On
+- Improving backend architecture skills [Priority]
+- Exploring scalable tools like N8N and Langchain for Auto-Workflow orchestration with minimum user input in mobile apps.
+- Building production-ready mobile apps soon to be deployed on Google Play Store.
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-nagarkoti-3b85a6366)
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=Nikhil-Git69&color=blue)  
+![Profile views](https://komarev.com/ghpvc/?username=Nikhil-Git69&color=blue)
